@@ -1,0 +1,49 @@
+/* App.css */
+
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #a3a3a2;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+h1 {
+  color: #ffde08;
+}
+
+p {
+  color: #000000;
+}
+
+nav {
+  background-color: #0d9e0d;
+  padding: 15px;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  margin: 0 15px;
+  font-size: 18px;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+div {
+  background: rgb(204, 162, 171);
+  padding: 20px;
+  margin: 20px auto;
+  max-width: 600px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+img {
+  width: 200px; /* Adjust size as needed */
+  height: auto;
+  border-radius: 50%;
+  margin-top: 10px;
+}
